@@ -102,7 +102,7 @@ form button {
 	@apply 
 		bg-white 
 		shadow-sm 
-		rounded-md 
+		rounded-md
 		py-3 px-4 my-4 
 		relative 
 		overflow-hidden;
